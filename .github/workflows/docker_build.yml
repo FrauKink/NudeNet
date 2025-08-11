@@ -37,4 +37,4 @@ jobs:
           file: ./fastdeploy_recipe/fastDeploy.auto_dockerfile
           push: true
           platforms: linux/amd64,linux/arm64
-          tags: ghcr.io/FrauKink/nudenet:latest
+          tags: ghcr.io/fraukink/nudenet:latest
